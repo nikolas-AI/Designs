@@ -11,7 +11,7 @@
     font-family: monospace;
     background: #000;
     width: 500px;
-    height: 300px;
+    height: 500px;
  }
 
  .card1 {
@@ -51,6 +51,33 @@
                linear-gradient(to bottom,  rgba(235, 115, 115, 0.5) 50%, transparent 50%);
    background-size: 20px 20px;
 }
+.card12 {
+   background: linear-gradient(135deg, #eceddc 25%, transparent 25%),
+               linear-gradient(225deg, #eceddc 25%, transparent 25%),
+               linear-gradient(315deg, #eceddc 25%, transparent 25%),
+               linear-gradient(45deg, #eceddc 25%, transparent 25%);
+   background-color: #782345;
+}
+.card13 {
+   background: linear-gradient(135deg, #eceddc 25%, transparent 25% ) ,
+               linear-gradient(225deg, #eceddc 25%, transparent 25% ),
+               linear-gradient(315deg, #eceddc 25%, transparent 25%),
+               linear-gradient(45deg, #eceddc 25%, transparent 25%);
+   background-color: #782345;
+   background-size: 40px 40px;
+}
+.card14 {
+   background: linear-gradient(135deg, #eceddc 25%, transparent 25% ) 100px 0,
+               linear-gradient(225deg, #eceddc 25%, transparent 25% ) 100px 0,
+               linear-gradient(315deg, #eceddc 25%, transparent 25%),
+               linear-gradient(45deg, #eceddc 25%, transparent 25%);
+   background-color: #782345;
+   background-size: 40px 40px;
+}
+.card15 {
+   background: 
+}
+
 
 
 
