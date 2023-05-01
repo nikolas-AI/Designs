@@ -27,7 +27,25 @@
    background: linear-gradient(to right, rgb(63, 179, 225) , rgb(240, 206, 15) );
 }
 .card5 {
-   background: linear-gradient(to right, rgb(229, 86, 78) , rgb(217, 186, 75) );
+   background: linear-gradient(to bottom, rgb(229, 86, 78) , rgb(217, 186, 75), grey, aqua );
+}
+.card6 {
+   background: linear-gradient(45deg, #3f87a6, #ebf8e1, #f69d3c, #561423);
+}
+.card7 {
+   background: linear-gradient(0.78turn, #62d65a, #ebf8e1, #555991, #dc2550);
+}
+.card8 {
+   background: linear-gradient(90deg, #6ce70e 50%, #d1758b 50%);
+}
+.card9 {
+   background: linear-gradient(90deg, #d080d3 50%, #75bcd1 50%);
+   background-size: 20px;
+}
+.card10 {
+   background: linear-gradient(to right, transparent 50%, rgba(255, 56, 56, 0.5) 50%),
+               linear-gradient(to bottom, transparent 50%, rgba(235, 115, 115, 0.5) 50%);
+   background-size: 25px 25px;
 }
 
 
