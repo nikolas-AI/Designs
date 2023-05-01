@@ -1,0 +1,33 @@
+.parent {
+    display: grid;
+    gap: 1rem;
+    justify-content: center;
+}
+ .cards {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    font-size: 3rem;
+    font-family: monospace;
+    background: #000;
+    width: 500px;
+    height: 300px;
+ }
+
+ .card1 {
+    background: linear-gradient(rgb(90, 85, 225) , rgb(201, 184, 184) );
+ }
+ .card2 {
+    background: linear-gradient(rgb(90, 85, 225) 70%, rgb(201, 184, 184) );
+ }
+ .card3 {
+    background: linear-gradient(rgb(118, 220, 126) 70%, rgb(216, 96, 96) 70%);
+}
+.card4 {
+   background: linear-gradient(to right, rgb(63, 179, 225) , rgb(240, 206, 15) );
+}
+
+
+
+
+
