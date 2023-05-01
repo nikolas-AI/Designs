@@ -126,10 +126,37 @@
 }
 .card22 {
    background-color: rgb(135, 204, 227);
-   background-image: conic-gradient(from 90deg at 30% 60%,
-                                    rgb(37, 65, 157) 30deg,
-                                    transparent 30deg);
-   background-size: 30px 30px;
+   background-image: conic-gradient(from 150deg at 50% 20%,
+                                    rgb(37, 65, 157) 60deg,
+                                    transparent 60deg);
+   background-size: 2rem ;
+}
+.card23 {
+   background-color: rgb(19, 30, 34);
+   background-image: conic-gradient(from 150deg at 50% 50%,
+                                    rgb(9, 225, 217) 60deg,
+                                    transparent 60deg),
+                     conic-gradient(from 330deg at 50% 50%,
+                                    rgb(225, 218, 9) 60deg,
+                                    transparent 60deg),
+                     conic-gradient(from 60deg at 50% 50%,
+                                    rgb(225, 9, 175) 60deg,
+                                    transparent 60deg),
+                     conic-gradient(from 240deg at 50% 50%,
+                                    rgb(9, 225, 99) 60deg,
+                                    transparent 60deg);
+    background-size: 2rem 2rem;
+}
+.card24 {
+   background-color: rgb(19, 30, 34);
+   background-image: conic-gradient(from 150deg at 50% 10%,
+                                    rgb(225, 45, 9) 60deg,
+                                    transparent 60deg),
+                     conic-gradient(from 330deg at 50% 90%,
+                                    rgb(164, 225, 9) 60deg,
+                                    transparent 60deg);
+                     
+    background-size: 2rem 2rem;
 }
 
 
