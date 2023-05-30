@@ -103,11 +103,11 @@
 }
 .card19 {
    background: radial-gradient(circle at 100% 50%, transparent 5px,
-                              rgb(37, 53, 63) 5px,/*starts at 15px*/
+                              rgb(100, 177, 226) 5px,/*starts at 15px*/
                               rgb(19, 131, 210) 10px,/*ends at 30px*/
                               transparent 10px),
                radial-gradient(circle at 0% 50%, transparent 5px,
-                              rgb(41, 52, 59) 5px,/*starts at 15px*/
+                              rgb(67, 165, 225) 5px,/*starts at 15px*/
                               rgb(19, 131, 210) 10px,/*ends at 30px*/
                               transparent 10px);
    background-size: 25px 30px;
@@ -121,7 +121,7 @@
    background-color: rgb(227, 227, 135);
    background-image: conic-gradient(from 90deg at 50% 50%,
                                     rgb(53, 157, 37),
-                                    transparent 300deg);
+                                    transparent 360deg);
    background-size: 100px 100px;
 }
 .card22 {
